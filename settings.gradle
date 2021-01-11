@@ -1,0 +1,3 @@
+include ':Traduora'
+include ':app'
+rootProject.name = "Liby"
