@@ -1,5 +1,16 @@
 # Traduora Custom Android Library
 
+## MAVEN REPOSITORY
+```
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+
 ## DEPENDENCY REQUIRED
 
 ```
